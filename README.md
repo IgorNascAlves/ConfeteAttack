@@ -1,6 +1,6 @@
 # Confete Attack - Projeto de Diversão e Trollagem 🎉💻
 
-O **Confete Attack** é um projeto divertido e um tanto quanto travesso que tem como objetivo encher a tela do computador de confetes na ferramenta Metro Retro, na esperança de brincar um pouco com seu colega ágil ou, quem sabe, travar um pouco o PC dele (brincadeira, não travem PCs, pessoal!). Este projeto utiliza a biblioteca Python chamada "mouse" para automatizar a tarefa de jogar confetes.
+O **Confete Attack** é um projeto divertido e um tanto quanto travesso que tem como objetivo encher a tela do computador de confetes na ferramenta Metro Retro, na esperança de brincar um pouco com seu colega agilista ou, quem sabe, travar um pouco o PC dele (brincadeira, não travem PCs, pessoal!). Este projeto utiliza a biblioteca Python chamada "mouse" para automatizar a tarefa de jogar confetes.
 
 ## Como Funciona
 
@@ -30,4 +30,4 @@ Lembre-se de que este é um projeto destinado à diversão e brincadeira leve. N
 
 Se você quiser contribuir para este projeto e torná-lo ainda mais divertido, fique à vontade para enviar solicitações de pull com melhorias, correções de bugs ou novos recursos. Lembre-se sempre de manter o espírito brincalhão e amigável do projeto!
 
-Divirta-se trollando seus amigos ágeis, mas com responsabilidade! 🎉😄
+Divirta-se trollando seus amigos agilistas, mas com responsabilidade! 🎉😄
